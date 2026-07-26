@@ -1,5 +1,5 @@
 {
-  "name": "my-static-site",
+  "name": "hue-hunt",
   "private": true,
   "devDependencies": {
     "wrangler": "^4.68.0"
