@@ -1,0 +1,8 @@
+{
+  "name": "my-static-site",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.68.0"
+  }
+}
+
